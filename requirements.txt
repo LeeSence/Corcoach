@@ -1,0 +1,6 @@
+pip install djangorestframework
+pip install django==3.2.16
+pip install cmake
+pip install opencv-contrib-python dlib
+pip install cvzone
+pip install mediapipe
